@@ -1,0 +1,196 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advancementinfo.toml"
+hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
+metafile = true
+
+[[files]]
+file = "mods/antighost.toml"
+hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.toml"
+hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.toml"
+hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "4932ddd020065b82614ddb7db60679f4c615b4c780dcac10c6ca43c3ba530c62"
+metafile = true
+
+[[files]]
+file = "mods/damage-tilt.toml"
+hash = "1392f6c0ae05631a711653f42d0a63750d2b1e0df0975eca2894ed7553b566bc"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.toml"
+hash = "8b977f688c648ca53b125f996e6e3138823d4d72143bab221d3c208e31964a92"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.toml"
+hash = "3b0b4c9d404cdabbd28ccb6204c1e301d181455b3719399b53b1820995a1edc2"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+metafile = true
+
+[[files]]
+file = "mods/editsign.toml"
+hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "d42c9c22fa6c8350c8d31652b0bb34f58b9d33033ad74f8b938588a116bd10e5"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.toml"
+hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
+metafile = true
+
+[[files]]
+file = "mods/fastopenlinksandfolders.toml"
+hash = "cfcfca681b376a3f30990a5845ccf7a95255b054674bcefd32c0f02e06f9346c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
+metafile = true
+
+[[files]]
+file = "mods/gimme-bundles.toml"
+hash = "dd952dc22a32c52880574c5d03a2a6a60b082bf6b717c5a05b4d79418b01eb55"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "df864fbe0b2602c2a0455b789e5e22f65ce1770994dbf3c6fe22a6b4ba9147b7"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.toml"
+hash = "04e52fb1abeb1921e2de71447db36a81947a1eeed6d4709ed5cbe48c03f7dcab"
+metafile = true
+
+[[files]]
+file = "mods/iris.toml"
+hash = "7486da78ccd788e6df69f762ee14db29fd533bf90b44969480ec1b112942e7fb"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "9ab8949bcb4280b1a4b97d40ded17b4786a6c4db1271c121a7fc52ea6f838e0e"
+metafile = true
+
+[[files]]
+file = "mods/kappa.toml"
+hash = "a0973ab120030308c9ed97cc7216ad0fff012a4e72639fc6c9aba898d4febd80"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "158c40f09b2ed4fe14f5f2925751796fe11f6baee7e1ac7f35931ad831631a3d"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.toml"
+hash = "2c410266c2e5763c5ebaaedbe68519920e857c8d6edac44aadefa2b407d016f5"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "6c8ae85a44ad6fbb5ad412073d3a32591e678fb70fb74d1aea525e9fdc15bcc7"
+metafile = true
+
+[[files]]
+file = "mods/more-chat-history.toml"
+hash = "6e491af660315658150add9c80d9ba6936563e6f55c45ee0aad5bdb0737e6fa8"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.toml"
+hash = "da102a723ecc37f03171eb690ef7a601c6d99c98a4252e48a88abe94d3baaf1a"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.toml"
+hash = "2ed09c99ce518bb51f6bc954d8300f2496db356a0376b287bf2fc85eaf5bbb38"
+metafile = true
+
+[[files]]
+file = "mods/pinglist.toml"
+hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "1f57f4aea6b574d9abee7605f366547db91894d86d73d2b785a26c0ef6a4d548"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/tiefix.toml"
+hash = "e9e0ef79a7e8f04ac8a0312b09afc36520394e1f40d0fcb7cc528ab30de3db5e"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.toml"
+hash = "57279a8ae2d7c6e5053da3909d95254118db533d9a38c1a0763bf602d80c933d"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.toml"
+hash = "26430a42b7c4148bc4c6cc3dd82d01aafd18edc8f264ea82256a17167b2972ea"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "517454a819176a1b52569e4c070d48e3a39d07e2e5b6bef26caa7bbc7e179037"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "faf6e255d73006ba855222959205280dfa139e76bbfc98059ee338b604f16c08"
+metafile = true
