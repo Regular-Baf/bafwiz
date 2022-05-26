@@ -1,4 +1,5 @@
 # Bafwiz: Modpack
+## DISCLAIMER: This pack is no longer updater. RIP in peace.
 An auto-updating, but otherwise pretty boring modpack for Minecraft 1.18.2
 
 This pack is intended to be imported as a **.zip** archive into the [PolyMC](https://github.com/PolyMC/PolyMC) launcher, but I suppose if you are familiar with packwiz you can probably use it on anything.
